@@ -1,5 +1,5 @@
-# bob-essentials
-Public source github used for the Discord Bot named Bob Essentials!
+# Bob Essentials
+Public source github used for the Discord Bot named Bob Essentials! Add our bot to your server using this link:
 
 # Questions?
 If you have any questions join our Discord: https://discord.gg/tUKsr9326B
